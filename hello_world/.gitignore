@@ -1,0 +1,7 @@
+# 忽略Rust编译输出目录
+target/
+# 忽略Cargo的依赖版本锁定文件（如果是库项目）
+Cargo.lock
+
+# 可选：忽略IDE相关配置
+.vscode/
