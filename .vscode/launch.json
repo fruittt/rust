@@ -8,7 +8,7 @@
             "type": "lldb",
             "request": "launch",
             "name": "Debug",
-            "program": "${workspaceFolder}/hello_woeld/<executable file>",
+            "program": "${workspaceFolder}/learn_var/target/debug/learn_var",
             "args": [],
             "cwd": "${workspaceFolder}"
         }
